@@ -52,6 +52,7 @@ You can click the Preview link to take a look at your changes.
 
 <h1 align="center">Hi 👋, I'm Jahangir Alom</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
+
 - 🔭 I’m currently working on **LocalDeal**
 
 - 🌱 I’m currently learning **Vue, Nest, Next.js**
