@@ -52,10 +52,15 @@ You can click the Preview link to take a look at your changes.
 
 <h1 align="center">Hi 👋, I'm Jahangir Alom</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-- 🔭 I’m currently working on **Localdeal**
+- 🔭 I’m currently working on **LocalDeal**
+
 - 🌱 I’m currently learning **Vue, Nest, Next.js**
+
 - 💬 Ask me about **Recat, Angular, Node, Bootstrap, MongoDb, Express,Java, JavaScript, TypeScript, C#, MySQL**
+
 - 📫 How to reach me **alomj257@gmail.com**
+
+- ⚡ Fun fact **I think I am funny.**
 
 <div> <a href="https://twitter.com/jahangi76582021" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/jahangir-alom-15293a209" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
