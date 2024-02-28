@@ -59,7 +59,7 @@ You can click the Preview link to take a look at your changes.
   
 - 💬 Ask me about **Recat, Angular, Node, Bootstrap, MongoDb, Express,Java, JavaScript, TypeScript, C#, MySQL**
   
-- 📫 How to reach me **alomj257@gmail.com | 7086955187**
+- 📫 How to reach me **alomj257@gmail.com**
 
 <div> <a href="https://twitter.com/jahangi76582021" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/jahangir-alom-15293a209/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -106,7 +106,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alomj257&layout=compact&theme=radical" alt=alomj257 />
+<!--- <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alomj257&layout=compact&theme=radical" alt=alomj257 /> --->
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=alomj257&show_icons=true&locale=en&theme=highcontrast" alt="alomj257" /></p>
 
@@ -116,8 +116,8 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
 <a href="https://github.com/alomj257">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alomj257&theme=tokyonight" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alomj257&theme=aura" height="180em" />
+<!--- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alomj257&theme=aura" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alomj257&theme=great_gatsby" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alomj257&theme=merko" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alomj257&theme=merko" height="180em" /> --->
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alomj257&theme=vision_friendly_dark" height="180em" />
 </div>
