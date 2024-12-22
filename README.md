@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://twitter.com/jahangi76582021" target="blank"><img src="https://img.shields.io/twitter/follow/jahangi76582021?logo=twitter&style=for-the-badge" alt="jahangi76582021" /></a> </p>
 
-- 🔭 I’m currently working on **DocOnTime Project**
+- 🔭 I’m currently working on **Localdeal**
 
 - 🌱 I’m currently learning **Vue, Nest, Next.js**
 
